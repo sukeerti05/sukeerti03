@@ -1,0 +1,21 @@
+import java.util.*;
+public class Main{
+    public static void main(String[]args){
+        Scanner sc=new Scanner(System.in);
+        int numCourses=2;
+        int prequisties[i] =[ai,bi];
+         prequisties[i].length==2;
+       let visited=0;
+System.out.println("Course Visited:"+visited);
+}
+}
+public static boolean numCourses(int num){
+for(int i=0;i<numCourses-1;i++){
+ if(first.visited=bi && second.visited=ai){
+       return true;
+    }
+else{
+return false;
+}
+}
+}
